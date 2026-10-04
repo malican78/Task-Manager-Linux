@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Dave's System Information
+Comment=Monitor system performance and processes
+Exec=/usr/bin/daves-system-info
+Icon=utilities-system-monitor
+Terminal=false
+Type=Application
+Categories=System;Monitor;

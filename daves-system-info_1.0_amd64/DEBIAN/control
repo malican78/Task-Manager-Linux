@@ -1,0 +1,8 @@
+Package: daves-system-info
+Version: 1.0
+Section: utils
+Priority: optional
+Architecture: amd64
+Maintainer: Dave
+Description: Dave's System Information
+ A lightweight, real-time task manager and system performance monitor.
